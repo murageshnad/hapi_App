@@ -54,7 +54,7 @@ const init = async () => {
           return console.log(err);
         }
         else {
-          console.log('inserted', Product);
+          //console.log('inserted', Product);
         }
       });
 
